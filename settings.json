@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Definitionofserver.aternos.me",
-    "port": 60093,
+    "ip": "GOATS-jL4y.aternos.me:62239",
+    "port": 62239,
     "version": "",
     "try-creative": false
   },
