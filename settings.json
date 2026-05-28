@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GOATS-jL4y.aternos.me:62239",
+    "ip": "GOATS-jL4y.aternos.me",
     "port": 62239,
     "version": "",
     "try-creative": false
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
